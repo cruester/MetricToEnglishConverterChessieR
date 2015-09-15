@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/MetricToEnglishConverterChessieR.iml" filepath="/Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/MetricToEnglishConverterChessieR.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/app/app.iml" filepath="/Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/converter/converter.iml" filepath="/Volumes/DATA/Users/cruester/AndroidStudioProjects/MetricToEnglishConverterChessieR/converter/converter.iml" />
+    </modules>
+  </component>
+</project>
